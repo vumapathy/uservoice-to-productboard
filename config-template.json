@@ -1,0 +1,5 @@
+{
+    "subdomain": "<Usually your company name>",
+    "uservoice_ui_token": "<Your API Key obtained via UserVoice Admin UI>",
+    "last_import_date": "January 1, 1970"
+}
