@@ -1,3 +1,6 @@
+## Introduction
+This is a script to help move your data out of UserVoice (https://www.uservoice.com/), a tool for capturing customer feedback, to ProductBoard (https://www.productboard.com/), a similar (but in my opinion, better!) tool.
+
 ## Getting Started
 This script assumes that you are an Admin in both the UserVoice and ProductBoard accounts for your organization.
 
